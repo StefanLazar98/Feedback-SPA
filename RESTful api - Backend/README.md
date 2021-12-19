@@ -1,1 +1,1 @@
-Deschidem un nou terminal si rulam comanda node serverConfig.js
+We open up a new terminal and we type the command: node serverConfig.js
