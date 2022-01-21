@@ -1,0 +1,139 @@
+body {
+    background-color: #212121;
+  }
+
+#container{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    height: 200px;
+    margin-top: -100px;
+    width: 400px;
+    margin-left: -200px; 
+}
+
+.title{
+    text-align: center;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    color: whitesmoke;
+}
+
+.container-buttons{
+    text-align: center;
+}
+
+.button{
+    background-color: white;
+}
+
+.label{
+    color: whitesmoke;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+#button-ok{
+    margin-left: 10px;
+    margin-top: 7px;
+}
+
+#text-button-container-student{
+    margin-left: 80px;
+}
+
+#feedback-grid{
+    position: absolute;
+    bottom: 15px;    
+    left: 30px;
+}   
+
+#button-go-back{
+    position: absolute;
+    margin-left: 150px;
+    bottom: -20px;
+}
+
+.feedback-text{
+    color: #3f51b5;
+}
+
+#reaction-feed-prof{
+    position: absolute;
+    top: 20%  ;
+    left:50%;
+}
+#reaction-feed-student{
+    position: absolute;
+    top: 75px  ;
+    left:60px;
+}
+
+#table-container{
+    background-color: #303030;
+}
+
+#getCode{
+    margin-top: 16px;
+    bottom: 10px;
+}
+
+#user-name{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    color: whitesmoke;
+    margin-left: 35px;
+}
+
+#user-email{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    color: whitesmoke;
+    margin-left: 35px;
+
+}
+
+#login-button{
+    margin-left: 100px; 
+}
+
+#logout-button{
+    margin-left: 100px; 
+ }
+
+#user-profile{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+.topcorner{
+    position:absolute;
+    top:0;
+    right:0;
+}
+
+#create-activity-form{
+    position: relative;
+    top: -78px;
+    left:25%;
+}
+
+#user-container{
+    margin-left: 20px;
+}
+
+#activities-show-button-close{
+    position: relative;
+    top: -20px ;
+    left:40%;
+}
+
+#activities-show-button-open{
+    position: relative;
+    top: -20px ;
+    left:40%;
+}
+
+#loading-component{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -45px;
+    margin-top: -45px;
+}
